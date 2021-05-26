@@ -21,7 +21,7 @@
 
 #### 2. 이미지 선택
 + 학습한 자료를 바탕으로 찾아볼 이미지를 선택함.
->라
+>[Teachable Machine](https://teachablemachine.withgoogle.com/)
 >>아
 >>>ㅏㅇㄹ
 
