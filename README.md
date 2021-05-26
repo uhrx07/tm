@@ -23,7 +23,7 @@
 + 학습한 자료를 바탕으로 찾아볼 이미지를 선택함.
 >[Google](https://google.co.kr/), [Naver](https://naver.com/) 또는 본인의 사진중에서 이미지 선택
 >>[Teachable Machine](https://teachablemachine.withgoogle.com/)
->>> Teachable Machine
+>>> Teachable Machine을 이용해 결과값 산출 [(이동)](https://teachablemachine.withgoogle.com/models/hVXW2gpm5/)
 
 #### 3. 결과값 확인
 + 학습한 자료를 바탕으로 찾아낸 결과값을 출력함.
