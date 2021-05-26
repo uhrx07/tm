@@ -13,7 +13,7 @@
 ### 작성 방법 🥵
 
 #### 1. 이미지 모으기
-학습에 필요한 이미지를 모음.
++ 학습에 필요한 이미지를 모음.
 |작업내용|비고|
 |--|--|
 |학습에 필요한 이미지|키워드|
@@ -21,9 +21,9 @@
 
 #### 2. 이미지 선택
 + 학습한 자료를 바탕으로 찾아볼 이미지를 선택함.
->[Teachable Machine](https://teachablemachine.withgoogle.com/)
->>아
->>>ㅏㅇㄹ
+>[Google](https://google.co.kr/), [Naver](https://naver.com/) 또는 본인의 사진중에서 이미지 선택
+>>[Teachable Machine](https://teachablemachine.withgoogle.com/)
+>>> Teachable Machine
 
 #### 3. 결과값 확인
 + 학습한 자료를 바탕으로 찾아낸 결과값을 출력함.
