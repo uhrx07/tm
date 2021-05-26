@@ -1,5 +1,5 @@
-# Teachable Machine Image Project Git Hosting
-
+# Teachable Machine Image Project
+---
 
 ## Teachable Machine 이미지 모델 만들기
 
